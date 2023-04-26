@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mbenfowler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mbenfowler" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mbenfowler" target="blank"><img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--chf73s-H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Linked_In-0077B5%3Fstyle%3Dfor-the-badge%26logo%3DLinkedIn%26logoColor%3Dwhite" alt="mbenfowler" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
