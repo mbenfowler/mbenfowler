@@ -1,4 +1,4 @@
-<h1 align="center">hi 👋, i'm mben from georgia 🍑</h1>
+<h1 align="center">hi 👋, i'm Matt Fowler from georgia 🍑</h1>
 <h3 align="center">full stack developer : specialties in frontend and quality engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbenfowler&label=Profile%20views&color=0e75b6&style=flat" alt="mbenfowler" /> </p>
